@@ -1,0 +1,2 @@
+Data Markets in the Cloud: An Opportunity for the Database Community
+http://www.vldb.org/pvldb/vol4/p1482-balazinska.pdf

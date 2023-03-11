@@ -1,0 +1,3 @@
+ICML '19
+Data Shapley: Equitable Valuation of Data for Machine Learning
+https://proceedings.mlr.press/v97/ghorbani19c/ghorbani19c.pdf

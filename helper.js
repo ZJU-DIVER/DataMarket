@@ -89,8 +89,8 @@ benchmarks = [
 ];
 
 references = [
-    'ref1',
-    'ref2',
+    'BalazinskaHS11',
+    'LiuLL0PS21',
 ];
 
 generateBenchmarks('benchmarks', benchmarks, 1)
